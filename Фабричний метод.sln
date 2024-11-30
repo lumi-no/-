@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Фабричний метод", "Фабричний метод\Фабричний метод.vcxproj", "{B7D33048-6C63-45BD-9924-A41928EBA983}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B7D33048-6C63-45BD-9924-A41928EBA983}.Debug|x64.ActiveCfg = Debug|x64
+		{B7D33048-6C63-45BD-9924-A41928EBA983}.Debug|x64.Build.0 = Debug|x64
+		{B7D33048-6C63-45BD-9924-A41928EBA983}.Debug|x86.ActiveCfg = Debug|Win32
+		{B7D33048-6C63-45BD-9924-A41928EBA983}.Debug|x86.Build.0 = Debug|Win32
+		{B7D33048-6C63-45BD-9924-A41928EBA983}.Release|x64.ActiveCfg = Release|x64
+		{B7D33048-6C63-45BD-9924-A41928EBA983}.Release|x64.Build.0 = Release|x64
+		{B7D33048-6C63-45BD-9924-A41928EBA983}.Release|x86.ActiveCfg = Release|Win32
+		{B7D33048-6C63-45BD-9924-A41928EBA983}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {410DC522-C3CC-4724-A2B8-B43E3571E617}
+	EndGlobalSection
+EndGlobal
